@@ -2,16 +2,25 @@
 ## Init 0
 On commence par faire un point de situation et faire connaissance
 ### envies et compétences
-Matrice Emerge map
-![Emerge map](https://i1.wp.com/www.as-map.com/wp-content/uploads/2014/11/EMERGE-MAP-V1-2015.png)
+#### Speakup
+https://web.speakup.info Room 51915 (241job): **Quel est l'apport de l'informatique pour l'humanité ?**
+* **A**:Nuisible, **B**:Danger, **C**:Utile, **D**:Nécessaire
+
+#### Matrice [Emerge map](https://twitter.com/EmergeMap)
+Tes capacitées numériques actuelles, 
+* Soit au feutre sur un paperboard, ou tableau blanc, soit via Post'it
+- Horizontal: 1:N00b, 2:Bad, 3:Good, 4:expert
+- Vertical: 1:Futile, 2:accessoire, 3:Utile, 4:Nécessaire
 
 ### évaluations funs
 #### Questionnaire individuel
-Quizz: TK
+Quizz: Culture numérique
+
 #### Questionnaire en team
 Quizz: Idem, mais en team...
-### équipements et outils logiciels utilisés
-MurdeMots: TK
+
+### outils logiciels utilisés
+MurdeMots: https://answergarden.ch/897367 (admin 241job)
 
 ## Init 1
 ### C'est quoi que tu dois savoir faire dans le digital ?
