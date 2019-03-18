@@ -53,3 +53,6 @@ https://medium.com/p/9c6b3021f5bb
 * Repérer comment dénoncer un article illégal/choquant (ne pas le faire, pas sur un des miens en tout cas)
 * Créer un article avec son auto-portrait, ses liens vers autres profils sociaux ou email et contact.
 * Y citer son binome et son formateur (@pkotte)
+* insérer une photo, jouer avec la taille
+* y intégrer cette vidéo: https://youtu.be/3CewHHcGLyY
+* en profiter pour la faire sous-titrer en français et copier le lien en démarrant à partir de 256 secondes
