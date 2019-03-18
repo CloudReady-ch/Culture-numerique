@@ -54,14 +54,27 @@ BrainStorm3: TK
 https://medium.com/quicklearn/se-cr%C3%A9er-un-compte-google-cfc5c1518e62
 
 ### Liker et bloguer
-https://medium.com/p/9c6b3021f5bb
-* Ajouter un commentaire, visible, et invisible (Tu peux le faire sur http://pascal.kotte.net)
-* Faire des claps, plusieurs... (spécifique à Medium)
-* Bookmarquer un article, le retrouver, débookmarquer
-* stabiloter un extrait, supprimer le stabilo
-* Repérer comment dénoncer un article illégal/choquant (ne pas le faire, pas sur un des miens en tout cas)
+#### Medium
+https://github.com/CloudReady-ch/QuickLearn/blob/master/Medium.com/1.utiliser.md
+
 * Créer un article avec son auto-portrait, ses liens vers autres profils sociaux ou email et contact.
 * Y citer son binome et son formateur (@pkotte)
-* insérer une photo, jouer avec la taille
-* y intégrer cette vidéo: https://youtu.be/3CewHHcGLyY
-* en profiter pour la faire sous-titrer en français et copier le lien en démarrant à partir de 256 secondes
+
+#### Advanced users
+* Créer une publication: https://medium.com/quicklearn/medium-com-level-2-5af6fcf33cd9
+* L'appeler Two4ajob (Mais un seul, et il y invitera les autres, en mode Editors, incluant le formateur STP @pkotte)
+
+# Plan de formations pour la suite
+## next stages
+* Annonces jobup/indeed ?
+* Espace collaboratif privé ?
+* Réseaux sociaux ?
+* Site web / blog personnel ?
+* Associations/loisirs du digital ?
+* Outils et espaces numériques ?
+* CV et lettres en lignes ?
+* What else ?
+
+## Devoirs de maisons
+* Mettre à jour son portrait, avec une référence @vers son binome et le formateur @pkotte
+* proposer un article sur la publication (existante, ou qui sera envoyé par le formateur)
