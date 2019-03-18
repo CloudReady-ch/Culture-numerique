@@ -23,6 +23,9 @@ Quizz: Idem, mais en team...
 MurdeMots: https://answergarden.ch/897367 (admin 241job)
 
 ## Init 1
+### Questionnaire
+https://create.kahoot.it/share/culture-numerique/754bce17-5262-4589-b9e9-71ddc9577481
+
 ### C'est quoi que tu dois savoir faire dans le digital ?
 BrainStorm1: TK
 
