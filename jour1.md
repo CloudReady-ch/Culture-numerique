@@ -14,7 +14,7 @@ Tes capacitées numériques actuelles,
 
 ### évaluations funs
 #### Questionnaire individuel
-Quizz: Culture numérique
+Quizz: Culture numérique: https://create.kahoot.it/share/culture-numerique/3ea384a0-afe3-4dbe-896a-93a7a1fb6469
 
 #### Questionnaire en team
 Quizz: Idem, mais en team...
