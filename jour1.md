@@ -2,38 +2,36 @@
 ## Init 0
 On commence par faire un point de situation et faire connaissance
 ### envies et compétences
+Matrice Emerge map
+![Emerge map](https://i1.wp.com/www.as-map.com/wp-content/uploads/2014/11/EMERGE-MAP-V1-2015.png)
 
 ### évaluations funs
 #### Questionnaire individuel
-Quizz: 
+Quizz: TK
 #### Questionnaire en team
 Quizz: Idem, mais en team...
 ### équipements et outils logiciels utilisés
-MurdeMots:
+MurdeMots: TK
 
 ## Init 1
 ### C'est quoi que tu dois savoir faire dans le digital ?
-BrainStorm1:
+BrainStorm1: TK
 
 ### Pour trouver un job ?
-BrainStorm2:
+BrainStorm2: TK
 
 ### Les réseaux sociaux !
 https://medium.com/quicklearn/r%C3%A9seaux-sociaux-pour-le-meilleur-et-le-pire-c2f9ba3be43a
 * Qui a quoi ? 
 
 ### De quoi avons-nous besoin ?
-BrainStorm3:
+BrainStorm3: TK
 
 ## Init 2
 ### Browser: Internaute, check personal, anonymous
 * gogol search (local mon pays): Mon prénom, nom (si pleins, ajouter ville ou métier ou entreprise)
 * installer Firefox, ouvrir page anonyme, refaire même recherche, même résultat ?
 * swisscows.ch search, même requête
-
-### Medium: Blog explorer
-* Naviguer et rechercher sur www.Medium.com: Résultat ?
-https://medium.com/p/9c6b3021f5bb
 
 ### eMail: webmail vs hosted
 * Qui utilises Gmail ?
@@ -43,6 +41,8 @@ https://medium.com/p/9c6b3021f5bb
 * Qui utilise un client de messagerie (gmail mobile, outlook, eudora) ?
 * Différences ?
 * Identification et sécurité ! 2FA ?
+#### Se faire un compte Google, mobile et email à disposition requis
+https://medium.com/quicklearn/se-cr%C3%A9er-un-compte-google-cfc5c1518e62
 
 ### Liker et bloguer
 https://medium.com/p/9c6b3021f5bb
