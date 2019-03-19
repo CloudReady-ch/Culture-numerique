@@ -1,6 +1,9 @@
 # Culture numérique
 ## Init 0
 On commence par faire un point de situation et faire connaissance
+### Cadre de bienveillances
+* [5 accords toltèques](https://medium.com/lean-design/le-5-%C3%A8me-accord-tolt%C3%A8que-a8fd2838f322)
+
 ### envies et compétences
 #### Speakup
 https://web.speakup.info Room 51915 (241job): **Quel est l'apport de l'informatique pour l'humanité ?**
@@ -67,8 +70,8 @@ https://github.com/CloudReady-ch/QuickLearn/blob/master/Medium.com/1.utiliser.md
 * Créer une publication: https://medium.com/quicklearn/medium-com-level-2-5af6fcf33cd9
 * L'appeler Two4ajob (Mais un seul, et il y invitera les autres, en mode Editors, incluant le formateur STP @pkotte)
 
-# Plan de formations pour la suite
-## next stages
+### Plan de formations pour la suite
+#### next stages
 * Annonces jobup/indeed ?
 * Espace collaboratif privé ?
 * Réseaux sociaux ?
@@ -78,6 +81,21 @@ https://github.com/CloudReady-ch/QuickLearn/blob/master/Medium.com/1.utiliser.md
 * CV et lettres en lignes ?
 * What else ?
 
+#### La plateforme collaborative
+https://medium.com/quicklearn/les-outils-et-plateformes-collaboratives-db2f4466243b
+* Pourquoi faut-il tuer les emails ? Infobésité !
+Exemple de micro-blogging et outils sélectionné et réflexions, propositions:
+* Facebook :(
+* Whatsapp :( http://whatsapp.kotte.net
+* Signal :) https://signal.org/download/
+* Démo: https://medium.com/quicklearn/les-outils-et-plateformes-collaboratives-db2f4466243b
+
+## Init 3
+* [Loomio](https://fr.wikipedia.org/wiki/Loomio): Lien groupe privé fermé: https://framavox.org/join/group/XX3nqnjorCCxAiqm3vFEYbG9/
+
 ## Devoirs de maisons
 * Mettre à jour son portrait, avec une référence @vers son binome et le formateur @pkotte
 * proposer un article sur la publication (existante, ou qui sera envoyé par le formateur)
+
+# Envies d'en apprendre plus ?
+* [MOOC et eLearning](https://medium.com/quicklearn/mooc-elearning-et-alternatives-a2cab1399fe0)
