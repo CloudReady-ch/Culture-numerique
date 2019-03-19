@@ -101,4 +101,5 @@ Exemple de micro-blogging et outils sélectionné et réflexions, propositions:
 * rejoindre le groupe ouvert QuickLearn dans le Loomio Framavox.
 
 # Envies d'en apprendre plus ?
+* Wikipedia
 * [MOOC et eLearning](https://medium.com/quicklearn/mooc-elearning-et-alternatives-a2cab1399fe0)
