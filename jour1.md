@@ -97,6 +97,8 @@ Exemple de micro-blogging et outils sélectionné et réflexions, propositions:
 ## Devoirs de maisons
 * Mettre à jour son portrait, avec une référence @vers son binome et le formateur @pkotte
 * proposer un article sur la publication (existante, ou qui sera envoyé par le formateur)
+* rejoindre le sous-groupe fermé two4ajob dans le Loomio Framavox de QuickLearn
+* rejoindre le groupe ouvert QuickLearn dans le Loomio Framavox.
 
 # Envies d'en apprendre plus ?
 * [MOOC et eLearning](https://medium.com/quicklearn/mooc-elearning-et-alternatives-a2cab1399fe0)
