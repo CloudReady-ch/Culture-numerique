@@ -85,4 +85,4 @@ https://github.com/CloudReady-ch/QuickLearn/blob/master/Medium.com/1.utiliser.md
 # Envies d'en apprendre plus ?
 * Wikipedia
 * [MOOC et eLearning](https://medium.com/quicklearn/mooc-elearning-et-alternatives-a2cab1399fe0)
-* [Références](]https://github.com/CloudReady-ch/Culture-numerique/blob/master/R%C3%A9f%C3%A9rences.md)
+* [Références](https://github.com/CloudReady-ch/Culture-numerique/blob/master/R%C3%A9f%C3%A9rences.md)
