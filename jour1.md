@@ -45,13 +45,14 @@ BrainStorm2: TK
 https://medium.com/quicklearn/r%C3%A9seaux-sociaux-pour-le-meilleur-et-le-pire-c2f9ba3be43a
 * Qui a quoi ? 
 
-### De quoi avons-nous besoin ?
+### De quoi avons-nous besoin ? (outils numériques)
 BrainStorm3: TK
 
 ## Init 2
 ### Browser: Internaute, check personal, anonymous
 * gogol search (local mon pays): Mon prénom, nom (si pleins, ajouter ville ou métier ou entreprise)
 * installer Firefox, ouvrir page anonyme, refaire même recherche, même résultat ?
+  * https://www.presse-citron.net/tuto-mardi-forcez-google-chrome-a-demarrer-mode-prive/ (Merci @Tyler)
 * swisscows.ch search, même requête
 
 ### eMail: webmail vs hosted
