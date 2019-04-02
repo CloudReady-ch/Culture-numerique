@@ -59,6 +59,7 @@ BrainStorm3: TK
 #### Se faire un compte Google, mobile et email à disposition requis
 https://medium.com/quicklearn/se-cr%C3%A9er-un-compte-google-cfc5c1518e62
 
+# Travaux pour la session suivante (jour 2)
 ### Liker et bloguer
 #### Medium
 https://github.com/CloudReady-ch/QuickLearn/blob/master/Medium.com/1.utiliser.md
@@ -80,25 +81,6 @@ https://github.com/CloudReady-ch/QuickLearn/blob/master/Medium.com/1.utiliser.md
 * Outils et espaces numériques ?
 * CV et lettres en lignes ?
 * What else ?
-
-#### La plateforme collaborative
-https://medium.com/quicklearn/les-outils-et-plateformes-collaboratives-db2f4466243b
-* Pourquoi faut-il tuer les emails ? Infobésité !
-Exemple de micro-blogging et outils sélectionné et réflexions, propositions:
-* Facebook :(
-* Whatsapp :( http://whatsapp.kotte.net
-* Signal :) https://signal.org/download/
-* Démo: https://medium.com/quicklearn/les-outils-et-plateformes-collaboratives-db2f4466243b
-
-## Init 3
-* [Loomio](https://fr.wikipedia.org/wiki/Loomio): Lien sous-groupe privé fermé secret: https://framavox.org/join/group/XX3nqnjorCCxAiqm3vFEYbG9/
-* Lien public sur l'espace: https://framavox.org/join/group/121e10bb05b328b0cf19/
-
-## Devoirs de maisons
-* Mettre à jour son portrait, avec une référence @vers son binome et le formateur @pkotte
-* proposer un article sur la publication (existante, ou qui sera envoyé par le formateur)
-* rejoindre le sous-groupe fermé two4ajob dans le Loomio Framavox de QuickLearn
-* rejoindre le groupe ouvert QuickLearn dans le Loomio Framavox.
 
 # Envies d'en apprendre plus ?
 * Wikipedia
