@@ -3,6 +3,12 @@
 On commence par faire un point de situation et faire connaissance
 ### Cadre de bienveillances
 * [5 accords toltèques](https://medium.com/lean-design/le-5-%C3%A8me-accord-tolt%C3%A8que-a8fd2838f322)
+* Le formateur: http://pascal.kotte.net
+
+### Culture numérique vs éducation informatique
+* Perspectivisme numérique: [CloudReady](https://medium.com/cloudready-ch/cloudready-ch-cest-quoi-b1f14327143a)
+* Responsabilité numérique: [Libre, ou pas ?](https://medium.com/cloudready-ch/cest-quoi-les-creative-commons-et-open-c-est-pour-ouvrir-quoi-90e050c650b3)
+* Le cas Whatsapp (http://whatsapp.kotte.net)
 
 ### envies et compétences
 #### Speakup
