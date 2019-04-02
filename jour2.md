@@ -2,7 +2,7 @@
 ## init 1
 ### compétences requises
 * email
-  * distinguer: clients et webmail
+  * distinguer: client mail et webmail
 * naviguer sur le web, en mode anonyme aussi
 * mur de *chat* en groupe (Whatsapp)
 ### compétences complémentaires
