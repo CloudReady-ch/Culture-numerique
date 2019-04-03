@@ -1,4 +1,5 @@
-# Sites et outils de références pour apprendre, en particulier le numérique
+# Sites et outils de références pour apprendre
+En particulier le numérique, et via le numérique.
 ## Savoir encyclopédique
 * [Wikipedia](http://wikipedia.fr)
 
