@@ -1,3 +1,10 @@
+# Sites et outils de références pour apprendre, en particulier le numérique
+## Savoir encyclopédique
+* [Wikipedia](http://wikipedia.fr)
+
+## eLearning
+* [MOOC et eLearning](https://medium.com/quicklearn/mooc-elearning-et-alternatives-a2cab1399fe0)
+
 ## Guides, en ligne dans le digital
 ### Guide d'autodéfense numérique - 5ème édition, 2017 (https://guide.boum.org)
 On peut commander une version papier
