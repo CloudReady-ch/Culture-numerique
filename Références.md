@@ -16,6 +16,10 @@ On peut commander une version papier
 Un blogueur fameux du web: https://korben.info/
 * https://wiki.korben.info/Accueil
 
+### QuickLearn
+Un blogueur moins fameux: http://pascal.KOTTE.net
+* [Quicklearn sur Medium](https://medium.com/quicklearn/colearning/home)
+
 ### Citoyen du Net (de netizen3)
 On peut aussi commander le livre
 * https://www.netizen3.org/index.php/Table_des_mati%C3%A8res
