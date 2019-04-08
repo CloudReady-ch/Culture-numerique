@@ -9,8 +9,8 @@ En particulier le numérique, et via le numérique.
 ## Guides, en ligne dans le digital
 ### Guide d'autodéfense numérique - 5ème édition, 2017 (https://guide.boum.org)
 On peut commander une version papier
-* [Tome 1 - Hors connexions](https://guide.boum.org/tomes/1_hors_connexions/pdf/) 184 pages
-* [Tome 2 - En ligne](https://guide.boum.org/tomes/2_en_ligne/pdf/) 178 pages
+* [Tome 1 - Hors connexions](https://guide.boum.org/tomes/1_hors_connexions/pdf/) 184 pages, protéger mon poste.
+* [Tome 2 - En ligne](https://guide.boum.org/tomes/2_en_ligne/pdf/) 178 pages, protéger ma présence sur le Net.
 
 ### Korben Wiki
 Un blogueur fameux du web: https://korben.info/
