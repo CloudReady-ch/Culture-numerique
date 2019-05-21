@@ -3,7 +3,7 @@
 ### Cadre de bienveillances
 * [5 accords toltèques](https://medium.com/lean-design/le-5-%C3%A8me-accord-tolt%C3%A8que-a8fd2838f322)
 * Le(s) formateur(s): http://pascal.kotte.net
-** Tu es aussi un formateur en culture numérique ? http://callme.kotte.net
+  * Tu es aussi un formateur en culture numérique ? http://callme.kotte.net
 
 ### Culture numérique vs éducation informatique
 * Perspectivisme numérique: [CloudReady](https://medium.com/cloudready-ch/cloudready-ch-cest-quoi-b1f14327143a)
