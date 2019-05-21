@@ -1,4 +1,4 @@
-# Culture numérique
+# Jour 1: Culture numérique
 On commence par faire un point de situation et faire connaissance
 ## Cadre de bienveillances
 * [5 accords toltèques](https://medium.com/lean-design/le-5-%C3%A8me-accord-tolt%C3%A8que-a8fd2838f322)
