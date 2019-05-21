@@ -18,10 +18,12 @@
 * réutilisation d'un lien vers un Cloud drive pour les fichiers
 * intégrer un lien vers le profil LinkedIn
 ### Concept de base de connaissance
-* tenter de retrouver l'article sur comment rendre Firefox/Chrome anonyme/mode privé par défaut (Whatsapp)
-* qui veut faire un article Medium dessus ?
+* Tenter de retrouver l'article sur comment rendre Firefox/Chrome anonyme/mode privé par défaut (Whatsapp)
+* Qui veut faire un article Medium dessus ?
 * Quels en seront les bénéfices en termes d'accessibilité ?
 * Quels bénéfices en termes de visibilité ?
+* Relais et republication sur les réseaux sociaux (Facebook, LinkedIn, Twitter...)
+* Publication d'articles sur LinkedIn
 ### Groupe LinkedIn
 * Suite invitation https://framaforms.org/two4ajob-1554739075
 * Qui a installé LinkedIn sur son Smartphone ? 
