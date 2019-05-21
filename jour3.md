@@ -6,15 +6,15 @@
   * as-tu un profil sur LinkedIn?
 * rappel cadre - 5 accords toltèques https://medium.com/lean-design/le-5-%C3%A8me-accord-tolt%C3%A8que-a8fd2838f322
 * brainstorm: Les compétences/outils ou maitrise qui vous manquent, pour faciliter votre acquisition de job.
-** difficultés personnelles à partager, et solutions pratiques pour y remédier.
-** utilisation de WeTransfer ou similaire pour l'échange de documents ! Qui utilise quoi ?
-** manipuler des photos pour rogner/retailler ! Qui utilise quoi pour cela ?
+  * difficultés personnelles à partager, et solutions pratiques pour y remédier.
+  * utilisation de WeTransfer ou similaire pour l'échange de documents ! Qui utilise quoi ?
+  * manipuler des photos pour rogner/retailler ! Qui utilise quoi pour cela ?
 * tour de tables des solutions Cloud utilisées
-** iCloud
-** OneDrive (Microsoft)
-** Google drive
-** DropBox
-** Autre Cloud drive ?
+  * iCloud
+  * OneDrive (Microsoft)
+  * Google drive
+  * DropBox
+  * Autre Cloud drive ?
 ### Finaliser un Trombinoscope++ (Medium)
 * Profil avec auto-portrait sur Medium
 * réutilisation d'un lien vers un Cloud drive pour les fichiers
