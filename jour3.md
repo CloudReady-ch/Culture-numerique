@@ -20,7 +20,8 @@
 ### Concept de base de connaissance
 * tenter de retrouver l'article sur comment rendre Firefox/Chrome anonyme/mode privé par défaut (Whatsapp)
 * qui veut faire un article Medium dessus ?
-* Quel en sera les bénéfices en termes d'accessibilité ?
+* Quels en seront les bénéfices en termes d'accessibilité ?
+* Quels bénéfices en termes de visibilité ?
 ### Groupe LinkedIn
 * Suite invitation https://framaforms.org/two4ajob-1554739075
 * Qui a installé LinkedIn sur son Smartphone ? 
