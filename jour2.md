@@ -7,7 +7,6 @@
 ### compétences complémentaires
 #### libre ou captif
 * comprendre la différence entre whatsapp et Signal
-  * Responsabilité numérique: [Libre, ou pas ?](https://medium.com/cloudready-ch/cest-quoi-les-creative-commons-et-open-c-est-pour-ouvrir-quoi-90e050c650b3)
   * Whatsapp: https://fr.wikipedia.org/wiki/WhatsApp
   * Signal: https://fr.wikipedia.org/wiki/Signal_(application)
 #### eReputation  
