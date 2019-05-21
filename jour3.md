@@ -2,6 +2,8 @@
 ## Script de la journée
 ### Introduction
 * Tour de table comment tu es ?
+  * as-tu fait ton portrait sur Medium, photos? image?
+  * as-tu un profil sur LinkedIn?
 * rappel cadre - 5 accords toltèques https://medium.com/lean-design/le-5-%C3%A8me-accord-tolt%C3%A8que-a8fd2838f322
 * brainstorm: Les compétences/outils ou maitrise qui vous manquent, pour faciliter votre acquisition de job.
 ** difficultés personnelles à partager, et solutions pratiques pour y remédier.
