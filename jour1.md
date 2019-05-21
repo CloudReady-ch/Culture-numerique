@@ -1,54 +1,53 @@
 # Culture numérique
-## Init 0
 On commence par faire un point de situation et faire connaissance
-### Cadre de bienveillances
+## Cadre de bienveillances
 * [5 accords toltèques](https://medium.com/lean-design/le-5-%C3%A8me-accord-tolt%C3%A8que-a8fd2838f322)
 * Le formateur: http://pascal.kotte.net
 
-### Culture numérique vs éducation informatique
+## Culture numérique vs éducation informatique
 * Perspectivisme numérique: [CloudReady](https://medium.com/cloudready-ch/cloudready-ch-cest-quoi-b1f14327143a)
 * Responsabilité numérique: [Libre, ou pas ?](https://medium.com/cloudready-ch/cest-quoi-les-creative-commons-et-open-c-est-pour-ouvrir-quoi-90e050c650b3)
 * Le cas Whatsapp (http://whatsapp.kotte.net)
 
-### envies et compétences
-#### Speakup
+## envies et compétences
+### Speakup
 https://web.speakup.info Room 51915 (241job): **Quel est l'apport de l'informatique pour l'humanité ?**
 * **A**:Nuisible, **B**:Danger, **C**:Utile, **D**:Nécessaire
 
-#### Matrice [Emerge map](https://twitter.com/EmergeMap)
+### Matrice [Emerge map](https://twitter.com/EmergeMap)
 Tes capacitées numériques actuelles, 
 * Soit au feutre sur un paperboard, ou tableau blanc, soit via Post'it
 - Horizontal: 1:N00b, 2:Bad, 3:Good, 4:expert
 - Vertical: 1:Futile, 2:accessoire, 3:Utile, 4:Nécessaire
 
-### évaluations funs
-#### Questionnaire individuel
+## évaluations funs
+### Questionnaire individuel
 Quizz: Culture numérique: https://create.kahoot.it/share/culture-numerique/3ea384a0-afe3-4dbe-896a-93a7a1fb6469
 
-#### Questionnaire en team
+### Questionnaire en team
 Quizz: Idem, mais en team...
 
-### outils logiciels utilisés
+## outils logiciels utilisés
 MurdeMots: https://answergarden.ch/897367 (admin 241job)
 
-## Init 1
-### Questionnaire
+# Init 1
+## Questionnaire
 https://create.kahoot.it/share/culture-numerique/754bce17-5262-4589-b9e9-71ddc9577481
 
-### C'est quoi que tu dois savoir faire dans le digital ?
+## C'est quoi que tu dois savoir faire dans le digital ?
 BrainStorm1: TK
 
-### Pour trouver un job ?
+## Pour trouver un job ?
 BrainStorm2: TK
 
-### Les réseaux sociaux !
+## Les réseaux sociaux !
 https://medium.com/quicklearn/r%C3%A9seaux-sociaux-pour-le-meilleur-et-le-pire-c2f9ba3be43a
 * Qui a quoi ? 
 
-### De quoi avons-nous besoin ? (outils numériques)
+## De quoi avons-nous besoin ? (outils numériques)
 BrainStorm3: TK
 
-## Init 2
+# Init 2
 ### Browser: Internaute, check personal, anonymous
 * gogol search (local mon pays): Mon prénom, nom (si pleins, ajouter ville ou métier ou entreprise)
 * installer Firefox, ouvrir page anonyme, refaire même recherche, même résultat ?
