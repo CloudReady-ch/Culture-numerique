@@ -2,7 +2,6 @@
 ## init 1
 ### compétences requises
 * email
-  * distinguer: client mail et webmail
 * naviguer sur le web, en mode anonyme aussi
 * mur de *chat* en groupe (Whatsapp)
 ### compétences complémentaires
@@ -13,7 +12,7 @@
   * Signal: https://fr.wikipedia.org/wiki/Signal_(application)
 #### eReputation  
 * contrôler sa présence numérique
-* mettre à jour sa présence numérique (init 2)
+* mettre à jour sa présence numérique
 
 ## init 2
 * Réseaux sociaux & micro-bloging, quezaco ?
@@ -25,16 +24,11 @@
   * Facebook :(
   * Whatsapp :( http://whatsapp.kotte.net
   * Signal :) https://signal.org/download/
-
-
+ 
 ### Plateforme collaborative
 https://medium.com/quicklearn/les-outils-et-plateformes-collaboratives-db2f4466243b
 Exemple de micro-blogging et outils sélectionné et réflexions, propositions:
 * Démo: https://medium.com/quicklearn/les-outils-et-plateformes-collaboratives-db2f4466243b
-
-## Init 3
-* [Loomio](https://fr.wikipedia.org/wiki/Loomio): Lien sous-groupe privé fermé secret: https://framavox.org/join/group/XX3nqnjorCCxAiqm3vFEYbG9/
-* Lien public sur l'espace: https://framavox.org/join/group/121e10bb05b328b0cf19/
 
 ## Devoirs de maisons
 * Mettre à jour son portrait, avec une référence @vers son binome et le formateur @pkotte
