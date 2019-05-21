@@ -1,4 +1,4 @@
-# Culture numérique
+# Jour 2: Culture et présence numérique
 ## init 1
 ### compétences requises
 * email
