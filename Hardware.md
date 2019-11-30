@@ -46,7 +46,7 @@ Linux install party
 ## Les écrans
 ### Choisir
 https://medium.com/conseillers-num%C3%A9riques-suisses-romands/ecrans-lcd-technos-et-choix-2064542fbc92
-Voir aussi
+
 ### Les interfaces vidéos
 https://medium.com/conseillers-num%C3%A9riques-suisses-romands/histoire-de-connecteurs-fe8bea784784
 
