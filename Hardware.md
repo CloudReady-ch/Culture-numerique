@@ -17,7 +17,9 @@ https://fr.wikibooks.org/wiki/Fonctionnement_d%27un_ordinateur/L%27architecture_
 ### vidéos
 https://medium.com/conseillers-num%C3%A9riques-suisses-romands/histoire-de-connecteurs-fe8bea784784
 ### Disques
-TK
+https://fr.wikipedia.org/wiki/Disque_dur
+* En anglais
+https://blog.westerndigital.com/hdds-vs-ssds-evolution-storage/
 ### Autres bus pour autres périphériques, ou pas
 https://medium.com/conseillers-num%C3%A9riques-suisses-romands/histoire-de-connecteurs-b7966dda6c67
 
