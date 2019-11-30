@@ -4,12 +4,13 @@ Il est difficile de faire de l'informatique sans devoir aborder les questions ma
 DRAFT: Cet article est en construction
 
 ## Définitions
-* Hardware: Hard et Soft, sont les 
+* Hardware: Hard et Soft, sont indissociables: Hard c'est la partie matérielle. Soft, c'est la partie logicielle.
+https://fr.wikipedia.org/wiki/Mat%C3%A9riel_informatique
 
 # Ordinateur, PC, et autres
 ## C'est quoi?
 TK
-## Comment cela fonctionne
+## Comment cela fonctionne?
 https://fr.wikibooks.org/wiki/Fonctionnement_d%27un_ordinateur/L%27architecture_de_base_d%27un_ordinateur
 
 ## Bus et interfaces
