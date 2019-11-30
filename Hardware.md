@@ -30,10 +30,10 @@ http://windows.QuickLearn.ch
 TK
 
 ### Linux
-Windows to Linux et Linux dans Windows
-* https://medium.com/lesenfantsdu-net/passer-de-win10-%C3%A0-linux-5799c79d33f7
-Linux install party
-* https://medium.com/lesenfantsdu-net/pc-revival-ou-survival-dbfe9913810f
+* Windows to Linux et Linux dans Windows
+https://medium.com/lesenfantsdu-net/passer-de-win10-%C3%A0-linux-5799c79d33f7
+* Linux install party
+https://medium.com/lesenfantsdu-net/pc-revival-ou-survival-dbfe9913810f
 
 ## Les mobiles
 ### Androïd
