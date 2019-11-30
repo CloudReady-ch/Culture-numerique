@@ -27,10 +27,12 @@ https://medium.com/conseillers-num%C3%A9riques-suisses-romands/histoire-de-conne
 https://fr.wikipedia.org/wiki/Loi_de_Moore
 
 ## Hygiène numérique et Sécurité
-### 
+### Hygiène
+https://medium.com/quicklearn/top-3-des-outils-pour-s%C3%A9curiser-et-nettoyer-windows-10-74ddcb3f9f24
 
 ### Sécurité
-https://medium.com/cloudready-ch/guide-dhygi%C3%A8ne-informatique-pour-le-particulier-d0f0da1e03ea
+* https://medium.com/cloudready-ch/guide-dhygi%C3%A8ne-informatique-pour-le-particulier-d0f0da1e03ea
+* https://medium.com/conseillers-num%C3%A9riques-suisses-romands/comment-se-prot%C3%A9ger-des-menaces-du-web-8278d8e190a7
 
 ## Cloud computing
 * Quand tu te débarrasses de ton matériel, pour dépendre de celui d'un autre
