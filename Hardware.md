@@ -21,6 +21,9 @@ TK
 ### Autres bus pour autres périphériques, ou pas
 https://medium.com/conseillers-num%C3%A9riques-suisses-romands/histoire-de-connecteurs-b7966dda6c67
 
+## Evolutions
+https://fr.wikipedia.org/wiki/Loi_de_Moore
+
 # Histoire d'OS
 ## Les principaux systèmes
 ### Windows
@@ -36,11 +39,13 @@ https://medium.com/lesenfantsdu-net/passer-de-win10-%C3%A0-linux-5799c79d33f7
 https://medium.com/lesenfantsdu-net/pc-revival-ou-survival-dbfe9913810f
 
 ## Les mobiles
+Ce sont aussi des ordinateurs.
 ### Androïd
 
 ### IOS
 
 ### Les autres?
+https://fr.wikipedia.org/wiki/Liste_de_distributions_alternatives_Android
 
 # Les périphériques
 ## Les écrans
