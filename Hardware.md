@@ -24,6 +24,16 @@ https://medium.com/conseillers-num%C3%A9riques-suisses-romands/histoire-de-conne
 ## Evolutions
 https://fr.wikipedia.org/wiki/Loi_de_Moore
 
+## Hygiène numérique et Sécurité
+### 
+
+### Sécurité
+https://medium.com/cloudready-ch/guide-dhygi%C3%A8ne-informatique-pour-le-particulier-d0f0da1e03ea
+
+## Cloud computing
+* Quand tu te débarrasses de ton matériel, pour dépendre de celui d'un autre
+https://medium.com/cloudready-ch/ipaas-cest-quoi-3f4b8ec84924
+
 # Histoire d'OS
 ## Les principaux systèmes
 ### Windows
