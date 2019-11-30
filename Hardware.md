@@ -40,6 +40,10 @@ https://medium.com/cloudready-ch/ipaas-cest-quoi-3f4b8ec84924
 ## Les principaux systèmes
 ### Windows
 http://windows.QuickLearn.ch
+* Des mises à jour, ou pas...
+https://medium.com/cloudready-ch/windows-10-et-updates-forc%C3%A9s-4c7e49217a2f
+* Shutup10
+https://medium.com/quicklearn/wumt-16330ba9464f
 
 ### MacOS
 TK
