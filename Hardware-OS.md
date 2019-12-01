@@ -39,7 +39,7 @@ https://medium.com/quicklearn/top-3-des-outils-pour-s%C3%A9curiser-et-nettoyer-w
 * Advanced: https://medium.com/cloudready-ch/la-trousse-%C3%A0-outil-des-geek-de-la-s%C3%A9curit%C3%A9-num%C3%A9rique-79757dd6c66d
 * Utilitaires:
   * France: https://phishing-initiative.fr/contrib
-  * Suisse: 
+  * Suisse: https://www.antiphishing.ch/fr/
   * https://haveibeenpwned.com/
 ## Cloud computing
 * Quand tu te débarrasses de ton matériel, pour dépendre de celui d'un autre
