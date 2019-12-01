@@ -33,6 +33,7 @@ https://medium.com/quicklearn/top-3-des-outils-pour-s%C3%A9curiser-et-nettoyer-w
 ### Sécurité
 * https://medium.com/cloudready-ch/guide-dhygi%C3%A8ne-informatique-pour-le-particulier-d0f0da1e03ea
 * https://medium.com/conseillers-num%C3%A9riques-suisses-romands/comment-se-prot%C3%A9ger-des-menaces-du-web-8278d8e190a7
+* https://medium.com/cloudready-ch/la-trousse-%C3%A0-outil-des-geek-de-la-s%C3%A9curit%C3%A9-num%C3%A9rique-79757dd6c66d
 
 ## Cloud computing
 * Quand tu te débarrasses de ton matériel, pour dépendre de celui d'un autre
