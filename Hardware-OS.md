@@ -1,4 +1,4 @@
-# Culture numérique matérielle
+# Culture numérique matérielle et OS
 Il est difficile de faire de l'informatique sans devoir aborder les questions matérielles. Et il est difficile de parler de matériel sans invoquer l'OS: Le système d'exploitation (Operating System).
 
 DRAFT: Cet article est en construction
