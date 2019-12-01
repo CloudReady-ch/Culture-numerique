@@ -1,11 +1,12 @@
 # Culture numérique matérielle
-Il est difficile de faire de l'informatique sans devoir aborder les questions matérielles.
+Il est difficile de faire de l'informatique sans devoir aborder les questions matérielles. Et il est difficile de parler de matériel sans invoquer l'OS: Le système d'exploitation (Operating System).
 
 DRAFT: Cet article est en construction
 
 ## Définitions
 * Hardware: Hard et Soft, sont indissociables: Hard c'est la partie matérielle. Soft, c'est la partie logicielle.
 https://fr.wikipedia.org/wiki/Mat%C3%A9riel_informatique
+* Oerating System (OS): Est le logiciel de base, qui gère le matériel, pour y faire fonctionner les logiciels. https://fr.wikipedia.org/wiki/Syst%C3%A8me_d%27exploitation
 
 # Ordinateur, PC, et autres
 ## C'est quoi?
