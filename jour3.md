@@ -37,3 +37,5 @@
 * un profil dans toutes les langues maîtrisées.
 * des recommandations croisées
 * étendre son réseau: Attention, pas de message personalisé sur l'option "one shot" !
+## Perspectivisme
+* [Déclaration publique de fuites de données personnelles; 8'622 contacts exposés chez Microsoft! Pardon, pardon!](https://medium.com/datagueule/d%C3%A9claration-publique-de-fuites-de-donn%C3%A9es-personnelles-8622-contacts-expos%C3%A9s-chez-microsoft-26cdaf4d4145)
