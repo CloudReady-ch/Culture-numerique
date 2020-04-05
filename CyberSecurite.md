@@ -10,6 +10,8 @@ https://medium.com/conseillers-num%C3%A9riques-suisses-romands/45-millions-de-mo
 https://medium.com/@pkotte/activez-lidentification-double-facteur-8fa79b860c6d
 
 # Contre-mesures
+## Permis de surfer
+https://medium.com/p/e0d4b1589ee4
 ## Anti-Malware
 https://medium.com/conseillers-num%C3%A9riques-suisses-romands/pourquoi-mon-pc-pourtant-sain-se-trouve-infect%C3%A9-par-un-spy-un-troyen-4507c3b4d446
 ## 2FA
