@@ -6,9 +6,14 @@
 
 ## Gratuit?
 * https://medium.com/quicklearn/freemium-553296c3cf92
+* http://whatsapp.kotte.net
 
 ## Conséquences
 * https://medium.com/cloudready-ch/le-cloud-joue-t-il-avec-nos-libert%C3%A9s-aee592b0586b
+* http://ethique.cloudready.ch
+
+## Contre-mesures
+* http://zetetique.quicklearn.ch
 
 # E-Collaborer
 * https://medium.com/quicklearn/les-outils-et-plateformes-collaboratives-db2f4466243b
