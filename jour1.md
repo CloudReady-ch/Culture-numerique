@@ -46,6 +46,7 @@ https://medium.com/quicklearn/r%C3%A9seaux-sociaux-pour-le-meilleur-et-le-pire-c
 
 ## De quoi avons-nous besoin ? (outils numériques)
 BrainStorm3: TK
+* Entrons dans la résistance maîtrisons notre attention I Jean Lou Fourquet: https://youtu.be/2G2jXzsngIg
 
 # Init 2
 ### Browser: Internaute, check personal, anonymous
