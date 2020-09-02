@@ -29,8 +29,10 @@
 * naviguer sur le web, en mode anonyme aussi
   * principes html
   * bases réseaux
-  * Cloud: 
+  * [Le Cloud](https://medium.com/cloudready-ch/cest-quoi-iaas-paas-et-saas-le-cloud-c169451d73bc)
 * mur de *chat* en groupe (Whatsapp)
+* [Cybersécurité](https://medium.com/cloudready-ch/internet-et-la-s%C3%A9curit%C3%A9-f0cd27a14408)
+
 ### compétences complémentaires
 #### libre ou captif
 * comprendre la différence entre whatsapp et Signal
