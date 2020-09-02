@@ -65,3 +65,5 @@ Exemple de micro-blogging et outils sélectionné et réflexions, propositions:
 * IA: [Deep learning, c’est quoi ?](https://medium.com/chatbot-ch/deep-learning-cest-quoi-437acfdf5630)
   * [Désillusions?](https://medium.com/chatbot-ch/deep-learning-d%C3%A9sillusions-ea049764eae5)
   
+## Init 5
+* [Datacooperative](https://medium.com/cloudready-ch/datacooperative-47c0a6b7fced)
