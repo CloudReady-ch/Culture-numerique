@@ -37,6 +37,7 @@
 
 ## init 2
 * Réseaux sociaux & micro-bloging, quezaco ?
+  * Twitter et Facebook
 
 ### Réflexions digitales, tempêtes d'emails
 * Pourquoi faut-il tuer les emails ? Infobésité ! 
@@ -46,12 +47,19 @@
   * Whatsapp :( http://whatsapp.kotte.net
   * Signal :) https://signal.org/download/
 
-
 ### Plateforme collaborative
 https://medium.com/quicklearn/les-outils-et-plateformes-collaboratives-db2f4466243b
 Exemple de micro-blogging et outils sélectionné et réflexions, propositions:
 * Démo: https://medium.com/quicklearn/les-outils-et-plateformes-collaboratives-db2f4466243b
 
+
 ## Init 3
 * [Loomio](https://fr.wikipedia.org/wiki/Loomio): Lien sous-groupe privé fermé secret: https://framavox.org/join/group/XX3nqnjorCCxAiqm3vFEYbG9/
 * Lien public sur l'espace: https://framavox.org/join/group/121e10bb05b328b0cf19/
+
+
+## Init 4
+* http://BigData.CloudReady.ch
+* IA: [Deep learning, c’est quoi ?](https://medium.com/chatbot-ch/deep-learning-cest-quoi-437acfdf5630)
+  * [Désillusions?](https://medium.com/chatbot-ch/deep-learning-d%C3%A9sillusions-ea049764eae5)
+  
