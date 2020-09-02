@@ -20,6 +20,7 @@
 
 ## init 1 - bases numélriques
 ### compétences requises
+* un ordinateur, c'est quoi
 * email
   * distinguer: 
     * client mail et webmail
