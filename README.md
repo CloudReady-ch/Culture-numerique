@@ -12,12 +12,13 @@
   * [L'économie numérique, esclavage moderne](https://www.cath.ch/newsf/leconomie-numerique-une-forme-desclavage-moderne-denonce-solange-ghernaouti/
 * Le cas Whatsapp (http://whatsapp.kotte.net)
 * Ouvertures ou  fermetures, la capture de nos données: [opendata](https://medium.com/cloudready-ch/open-data-shared-data-44a0e50b87c3)
-* La pensée logarithmique < la science informatique < la culture numérique: (à venir) TK
+* La pensée logarithmique < la science informatique < la culture numérique: (à venir)
+  * http://education.kotte.net 
 * La culture et pensée numérique ne doit surtout pas être réservée aux informaticiens: [Alexander Repenning](https://medium.com/cloudready-ch/la-pens%C3%A9e-informatique-ou-computationnelle-9172cf1628a1)
 * Recrutement et numérique: Les ubérisations en marche [Microsoft et Facebook](https://medium.com/cloudready-ch/microsoft-et-facebook-8f1f72dd3805)
 * Peurs et ignorances: [DarkWeb](https://medium.com/cloudready-ch/quest-ce-que-le-dark-web-le-bon-et-le-mauvais-du-coin-le-plus-priv%C3%A9-d-internet-a3f877e56c99)
 
-## init 1
+## init 1 - bases numélriques
 ### compétences requises
 * email
   * distinguer: 
@@ -26,6 +27,9 @@
   * lucidité: emails données privées, sous contrôle de la NSA
   * alternatives: Infomaniak, Bluewin et Protonmail.
 * naviguer sur le web, en mode anonyme aussi
+  * principes html
+  * bases réseaux
+  * Cloud: 
 * mur de *chat* en groupe (Whatsapp)
 ### compétences complémentaires
 #### libre ou captif
@@ -37,7 +41,7 @@
 * contrôler sa présence numérique
 * mettre à jour sa présence numérique (init 2)
 
-## init 2
+## init 2 - microblog
 * Réseaux sociaux & micro-bloging, quezaco ?
   * Twitter et Facebook
 
@@ -55,15 +59,18 @@ Exemple de micro-blogging et outils sélectionné et réflexions, propositions:
 * Démo: https://medium.com/quicklearn/les-outils-et-plateformes-collaboratives-db2f4466243b
 
 
-## Init 3
+## Init 3 - gouvernance collaborative
 * [Loomio](https://fr.wikipedia.org/wiki/Loomio): Lien sous-groupe privé fermé secret: https://framavox.org/join/group/XX3nqnjorCCxAiqm3vFEYbG9/
 * Lien public sur l'espace: https://framavox.org/join/group/121e10bb05b328b0cf19/
 
 
-## Init 4
+## Init 4 - GAFAM et BATX
 * http://BigData.CloudReady.ch
 * IA: [Deep learning, c’est quoi ?](https://medium.com/chatbot-ch/deep-learning-cest-quoi-437acfdf5630)
   * [Désillusions?](https://medium.com/chatbot-ch/deep-learning-d%C3%A9sillusions-ea049764eae5)
+  * [Guerre économique](https://medium.com/chatbot-ch/gouvernance-et-ia-706711a5ddac)
   
-## Init 5
+## Init 5 - Alternatives ?
+* www.FSnet.ch
+* www.Framasoft.org
 * [Datacooperative](https://medium.com/cloudready-ch/datacooperative-47c0a6b7fced)
