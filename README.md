@@ -8,6 +8,8 @@
 ### Culture numérique vs éducation informatique
 * Perspectivisme numérique: [CloudReady](https://medium.com/cloudready-ch/cloudready-ch-cest-quoi-b1f14327143a)
 * Responsabilité numérique: [Libre, ou pas ?](https://medium.com/cloudready-ch/cest-quoi-les-creative-commons-et-open-c-est-pour-ouvrir-quoi-90e050c650b3)
+  * [Comment penser la cybersécurité à l’heure de l’esclavage numérique ?](https://blogs.letemps.ch/solange-ghernaouti/2019/06/24/comment-penser-la-cybersecurite-a-lheure-de-lesclavage-numerique/)
+  * [L'économie numérique, esclavage moderne](https://www.cath.ch/newsf/leconomie-numerique-une-forme-desclavage-moderne-denonce-solange-ghernaouti/
 * Le cas Whatsapp (http://whatsapp.kotte.net)
 * Ouvertures ou  fermetures, la capture de nos données: [opendata](https://medium.com/cloudready-ch/open-data-shared-data-44a0e50b87c3)
 * La pensée logarithmique < la science informatique < la culture numérique: (à venir) TK
