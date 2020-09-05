@@ -1,8 +1,9 @@
-# Culture-numerique
+# Culture numérique
 ## Init 0
 ### Cadre de bienveillances
 * [5 accords toltèques](https://medium.com/lean-design/le-5-%C3%A8me-accord-tolt%C3%A8que-a8fd2838f322)
-* Le(s) formateur(s): http://pascal.kotte.net
+* Le(s) formateur(s): 
+  * http://pascal.kotte.net et je préfère être coach en apprentissages et transitions numériques que formateur...
   * Tu es aussi un formateur en culture numérique ? http://callme.kotte.net
 
 ### Culture numérique vs éducation informatique
@@ -18,7 +19,7 @@
 * Recrutement et numérique: Les ubérisations en marche [Microsoft et Facebook](https://medium.com/cloudready-ch/microsoft-et-facebook-8f1f72dd3805)
 * Peurs et ignorances: [DarkWeb](https://medium.com/cloudready-ch/quest-ce-que-le-dark-web-le-bon-et-le-mauvais-du-coin-le-plus-priv%C3%A9-d-internet-a3f877e56c99)
 
-## init 1 - bases numélriques
+## init 1 - bases numériques
 ### compétences requises
 * un ordinateur, c'est quoi
   * La loi de Moore
