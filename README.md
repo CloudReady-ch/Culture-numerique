@@ -25,6 +25,7 @@
   * [Kasparov vs Deep blue](https://medium.com/chatbot-ch/il-y-a-20-ans-le-11-mai-pass%C3%A9-4992e5611e8d)
   * [Lee sedol vs Alphago](https://medium.com/chatbot-ch/alphago-a-battu-lhumain-au-go-81933f319666#393d)
   * [Ordinateur quantique](https://medium.com/cloudready-ch/ce-qui-minqui%C3%A8te-vraiment-avec-les-ordinateurs-quantiques-304f77d30cf7)
+  * [Les 5 plus grandes confusions](https://blog.liberetonordi.com/index.php?post/5-confusions)
 * email
   * distinguer: 
     * client mail et webmail
