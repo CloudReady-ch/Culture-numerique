@@ -18,7 +18,9 @@
   * L'école de la liberté, ou l'école des esclaves
 * La culture et pensée numérique ne doit surtout pas être réservée aux informaticiens: [Alexander Repenning](https://medium.com/cloudready-ch/la-pens%C3%A9e-informatique-ou-computationnelle-9172cf1628a1)
 * Recrutement et numérique: Les ubérisations en marche [Microsoft et Facebook](https://medium.com/cloudready-ch/microsoft-et-facebook-8f1f72dd3805)
-* Peurs et ignorances: [DarkWeb](https://medium.com/cloudready-ch/quest-ce-que-le-dark-web-le-bon-et-le-mauvais-du-coin-le-plus-priv%C3%A9-d-internet-a3f877e56c99)
+* Peurs et ignorances: 
+  * [DarkWeb](https://medium.com/cloudready-ch/quest-ce-que-le-dark-web-le-bon-et-le-mauvais-du-coin-le-plus-priv%C3%A9-d-internet-a3f877e56c99)
+  * https://github.com/CloudReady-ch/Culture-numerique/blob/master/InfoSecNews2020-1FR.pdf
 
 ## init 1 - bases numériques
 ### compétences requises
