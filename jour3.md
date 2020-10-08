@@ -32,7 +32,7 @@
 * connecter https://www.linkedin.com/in/kotte/ en ajoutant un message incluant 241job (two4ajob) !
 * Que se passe-t-il depuis un smartphone ?
 * Demander à rejoindre le groupe: https://www.linkedin.com/groups/12250127/
-* Quelles différences avantages/inconvénients avec le grouope WhatsApp ?
+* Quelles différences avantages/inconvénients avec le groupe WhatsApp ?
 ### Profil LinkedIn
 * un profil dans toutes les langues maîtrisées.
 * des recommandations croisées
