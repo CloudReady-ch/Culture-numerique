@@ -76,8 +76,8 @@ https://github.com/CloudReady-ch/QuickLearn/blob/master/Medium.com/1.utiliser.md
 * Y citer son binome et son formateur (@pkotte)
 
 #### Advanced users
-* Créer une publication: https://medium.com/quicklearn/medium-com-level-2-5af6fcf33cd9
-* L'appeler Two4ajob (Mais un seul, et il y invitera les autres, en mode Editors, incluant le formateur STP @pkotte)
+* Un des participantS: Créer une publication: https://medium.com/quicklearn/medium-com-level-2-5af6fcf33cd9
+  * L'appeler d'un nom convenu (il y invitera les autres, en mode Editors, incluant le formateur STP @pkotte)
 
 ### Plan de formations pour la suite
 #### next stages
