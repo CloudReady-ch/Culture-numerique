@@ -28,6 +28,14 @@ Un blogueur moins fameux: http://pascal.KOTTE.net
 On peut aussi commander le livre
 * https://www.netizen3.org/index.php/Table_des_mati%C3%A8res
 
+## Outils d'animations et d'inter-actions
+### Poll et questionnaires en ligne
+* Alternative à Doodle pour organiser un meeting, et poser des questions: https://framaforms.org/
+  * https://strawpoll.com/  (en anglais, questionnaires avec 
+  * alternative à Doodle https://doodle.com/fr/organiser-une-reunion
+* Google Form
+* Microsoft form
+
 ## Références éducation romande
 ### PER (Plan Etude Romand, partie informatique = MITIC)
 * Formation générale (FG) — MITIC: Visées prioritaires (https://www.plandetudes.ch/web/guest/mitic/) avec
@@ -43,5 +51,10 @@ On peut aussi commander le livre
 
 Il est intéressant de se repositionner par rapport aux éléments prévus à l'école obligatoire en Suisse.
 
-### Plateformes et supports
+### Certifications en culture numérique
+En plus des certifications propriétaires (Google, Microsoft, etc...), il existe des certificats pour confirmer les capacités numériques:
+* ECDL
+* SwissDigital (?) A revoir avec l'ISEIG...
+
+### Plateformes et supports d'apprentissages
 * à compléter
