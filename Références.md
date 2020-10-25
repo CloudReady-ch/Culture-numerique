@@ -12,6 +12,10 @@ On peut commander une version papier
 * [Tome 1 - Hors connexions](https://guide.boum.org/tomes/1_hors_connexions/pdf/) 184 pages, protéger mon poste.
 * [Tome 2 - En ligne](https://guide.boum.org/tomes/2_en_ligne/pdf/) 178 pages, protéger ma présence sur le Net.
 
+### Moins technique, et plus sur l'esprit critique
+La zététique
+* Support disponible: http://zetetique.quicklearn.ch
+
 ### Korben Wiki
 Un blogueur fameux du web: https://korben.info/
 * https://wiki.korben.info/Accueil
