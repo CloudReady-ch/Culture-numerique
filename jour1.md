@@ -17,8 +17,8 @@ https://web.speakup.info : Room 46096 - **Quel est l'apport de l'informatique po
 ### Matrice [Emerge map](https://twitter.com/EmergeMap)
 Tes capacitées numériques actuelles, 
 * Soit au feutre sur un paperboard, ou tableau blanc, soit via Post'it
-- Horizontal: 1:N00b, 2:Bad, 3:Good, 4:expert
-- Vertical: 1:Futile, 2:accessoire, 3:Utile, 4:Nécessaire
+  * Horizontal: 1:N00b, 2:Bad, 3:Good, 4:expert
+  * Vertical:  A:Nécessaire, D:Utile, G:accessoire, K:Futile
 * soit oralement
 
 ## évaluations funs
@@ -69,6 +69,10 @@ BrainStorm3: TK
 * Identification et sécurité ! 2FA ?
 #### Se faire un compte Google, mobile et email à disposition requis
 https://medium.com/quicklearn/se-cr%C3%A9er-un-compte-google-cfc5c1518e62
+
+### OneDrive et Google drive
+* https://1drv.ms/u/s!AvfnDwkjZgggakiw2dik-mc1NJI?e=Tfahb8
+* https://drive.google.com/drive/folders/1Lu30RO_a8d4uXkLMgGEQFF5n-9Pq6cUv?usp=sharing
 
 # Travaux Optionnels pour la session suivante (jour 2) 
 ### Liker et bloguer
