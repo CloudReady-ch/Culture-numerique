@@ -29,6 +29,11 @@ On peut aussi commander le livre
 * https://www.netizen3.org/index.php/Table_des_mati%C3%A8res
 
 ## Outils d'animations et d'inter-actions
+### Gaming
+* Kahot, Culture numérique:
+  * Questionnaire individuel 16 questions: https://create.kahoot.it/share/culture-numerique/754bce17-5262-4589-b9e9-71ddc9577481
+  * Affrontement collectif : https://create.kahoot.it/share/culture-numerique/3ea384a0-afe3-4dbe-896a-93a7a1fb6469
+  
 ### Poll et questionnaires en ligne
 * Alternative à Doodle pour organiser un meeting, et poser des questions: https://framaforms.org/
   * https://strawpoll.com/  (en anglais, questionnaires avec 
