@@ -23,17 +23,23 @@ Tes capacitées numériques actuelles,
 
 ## évaluations funs
 ### Questionnaire individuel
-Quizz: Culture numérique: https://create.kahoot.it/share/culture-numerique/3ea384a0-afe3-4dbe-896a-93a7a1fb6469
+Quizz: Culture numérique, 
+* 2020: 
+  * 16 questions: https://kahoot.it/challenge/04130808?challenge-id=9eb6e740-207e-4840-89e3-100a68d6d877_1603747037095
+* 25 questions plutôt faire en mode gaming
+  * Mode individuel https://kahoot.it/challenge/08975935?challenge-id=9eb6e740-207e-4840-89e3-100a68d6d877_1603746117834
+  * mode collectif gaming: https://create.kahoot.it/share/culture-numerique-ch/0d172779-40fb-4cbd-b6b5-6a1854a6f3ad (lancer Play)
 
 ### Questionnaire en team
 Quizz: Idem, mais en team...
+* 2020: 
 
 ## outils logiciels utilisés
 MurdeMots: https://answergarden.ch/897367 (admin 241job)
 
 # Init 1
 ## Questionnaire
-https://create.kahoot.it/share/culture-numerique/754bce17-5262-4589-b9e9-71ddc9577481
+
 
 ## C'est quoi que tu dois savoir faire dans le digital ?
 BrainStorm1: TK
