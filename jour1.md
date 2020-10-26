@@ -7,12 +7,13 @@ On commence par faire un point de situation et faire connaissance
 ## Culture numérique vs éducation informatique
 * Perspectivisme numérique: [CloudReady](https://medium.com/cloudready-ch/cloudready-ch-cest-quoi-b1f14327143a)
 * Responsabilité numérique: [Libre, ou pas ?](https://medium.com/cloudready-ch/cest-quoi-les-creative-commons-et-open-c-est-pour-ouvrir-quoi-90e050c650b3)
-* Le cas Whatsapp (http://whatsapp.kotte.net)
+* Le cas Whatsapp (http://whatsapp.kotte.net) et le [5ème pouvoir](https://medium.com/responsibility-digital/pourquoi-cest-important-96be66797a1b): 
 
 ## envies et compétences
 ### Speakup
-https://web.speakup.info Room 51915 (241job): **Quel est l'apport de l'informatique pour l'humanité ?**
+https://web.speakup.info : Room 46096 - **Quel est l'apport de l'informatique pour l'humanité ?**
 * **A**:Nuisible, **B**:Danger, **C**:Utile, **D**:Nécessaire
+  * 2019: Room 51915 (241job): 
 
 ### Matrice [Emerge map](https://twitter.com/EmergeMap)
 Tes capacitées numériques actuelles, 
