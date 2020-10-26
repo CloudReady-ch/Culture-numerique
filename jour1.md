@@ -35,8 +35,9 @@ MurdeMots:
 # Init 1
 ## Questionnaire
 * 2020: 
-  * 16 questions: https://kahoot.it/challenge/04130808?challenge-id=9eb6e740-207e-4840-89e3-100a68d6d877_1603747037095
-
+  * Must, 8 questions: https://framaforms.org/vos-informations-numeriques-1603752563
+  * Option: 16 questions: https://kahoot.it/challenge/04130808?challenge-id=9eb6e740-207e-4840-89e3-100a68d6d877_1603747037095
+  
 ## C'est quoi que tu dois savoir faire dans le digital ?
 BrainStorm1: TK
 
