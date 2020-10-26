@@ -7,9 +7,8 @@ On commence par faire un point de situation et faire connaissance
 ## Culture numérique vs éducation informatique
 * Perspectivisme numérique: [CloudReady](https://medium.com/cloudready-ch/cloudready-ch-cest-quoi-b1f14327143a)
 * Responsabilité numérique: [Libre, ou pas ?](https://medium.com/cloudready-ch/cest-quoi-les-creative-commons-et-open-c-est-pour-ouvrir-quoi-90e050c650b3)
-* Le cas Whatsapp (http://whatsapp.kotte.net) et le [5ème pouvoir](https://medium.com/responsibility-digital/pourquoi-cest-important-96be66797a1b): 
 
-## envies et compétences
+## Craintes, envies et compétences
 ### Speakup
 https://web.speakup.info : Room 46096 - **Quel est l'apport de l'informatique pour l'humanité ?**
 * **A**:Nuisible, **B**:Danger, **C**:Utile, **D**:Nécessaire
@@ -20,26 +19,23 @@ Tes capacitées numériques actuelles,
 * Soit au feutre sur un paperboard, ou tableau blanc, soit via Post'it
 - Horizontal: 1:N00b, 2:Bad, 3:Good, 4:expert
 - Vertical: 1:Futile, 2:accessoire, 3:Utile, 4:Nécessaire
+* soit oralement
 
 ## évaluations funs
-### Questionnaire individuel
 Quizz: Culture numérique, 
-* 2020: 
-  * 16 questions: https://kahoot.it/challenge/04130808?challenge-id=9eb6e740-207e-4840-89e3-100a68d6d877_1603747037095
 * 25 questions plutôt faire en mode gaming
   * Mode individuel https://kahoot.it/challenge/08975935?challenge-id=9eb6e740-207e-4840-89e3-100a68d6d877_1603746117834
   * mode collectif gaming: https://create.kahoot.it/share/culture-numerique-ch/0d172779-40fb-4cbd-b6b5-6a1854a6f3ad (lancer Play)
 
-### Questionnaire en team
-Quizz: Idem, mais en team...
-* 2020: 
-
 ## outils logiciels utilisés
-MurdeMots: https://answergarden.ch/897367 (admin 241job)
+MurdeMots: 
+* 2020: https://answergarden.ch/1500539
+* 2019: https://answergarden.ch/897367 (admin 241job)
 
 # Init 1
 ## Questionnaire
-
+* 2020: 
+  * 16 questions: https://kahoot.it/challenge/04130808?challenge-id=9eb6e740-207e-4840-89e3-100a68d6d877_1603747037095
 
 ## C'est quoi que tu dois savoir faire dans le digital ?
 BrainStorm1: TK
@@ -74,17 +70,19 @@ BrainStorm3: TK
 #### Se faire un compte Google, mobile et email à disposition requis
 https://medium.com/quicklearn/se-cr%C3%A9er-un-compte-google-cfc5c1518e62
 
-# Travaux pour la session suivante (jour 2)
+# Travaux Optionnels pour la session suivante (jour 2) 
 ### Liker et bloguer
 #### Medium
 https://github.com/CloudReady-ch/QuickLearn/blob/master/Medium.com/1.utiliser.md
-
+* Se créer un profil
 * Créer un article avec son auto-portrait, ses liens vers autres profils sociaux ou email et contact.
 * Y citer son binome et son formateur (@pkotte)
 
 #### Advanced users
-* Un des participantS: Créer une publication: https://medium.com/quicklearn/medium-com-level-2-5af6fcf33cd9
-  * L'appeler d'un nom convenu (il y invitera les autres, en mode Editors, incluant le formateur STP @pkotte)
+2020
+* demander à rejoindre la publication https://medium.com/twoforajob
+2019
+* https://medium.com/two4ajob/about
 
 ### Plan de formations pour la suite
 #### next stages
