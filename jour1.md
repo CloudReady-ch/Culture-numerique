@@ -17,7 +17,7 @@ Formation réduite à 3 jours: **"Employabilité 4.0"**
 
 ## Le support powerpoint
 * 2020: https://1drv.ms/p/s!As9QX_6wVqXSi4oKxs_T2griXF-Nhg?e=og9Rk9
-  * Le support plus graphique sur le blog: 
+  * Le support plus graphique sur le blog: https://medium.com/twoforajob/jour-1-culture-num%C3%A9tique-3dec95318104
   
 
 ## Craintes, envies et compétences
@@ -32,7 +32,7 @@ Tes capacitées numériques actuelles,
 * Soit au feutre sur un paperboard, ou tableau blanc, soit via Post'it
   * Horizontal: 1:N00b, 2:Bad, 3:Good, 4:expert
   * Vertical:  A:Nécessaire, D:Utile, G:accessoire, K:Futile
-* soit oralement
+* soit oralement: Mise à jour sur à l'écran (mode distant) par l'animateur.
 
 ## évaluations funs
 Quizz: Culture numérique, 
