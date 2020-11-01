@@ -17,9 +17,8 @@ Formation réduite à 3 jours: **"Employabilité 4.0"**
 
 ## Le support powerpoint
 * 2020: https://1drv.ms/p/s!As9QX_6wVqXSi4oKxs_T2griXF-Nhg?e=og9Rk9
-  * Le support plus graphique sur le blog: https://medium.com/twoforajob/jour-1-culture-num%C3%A9tique-3dec95318104
+  * Et le support commentable sur le blog: https://medium.com/twoforajob/jour-1-culture-num%C3%A9tique-3dec95318104
   
-
 ## Craintes, envies et compétences
 ### Speakup
 https://web.speakup.info : Room 46096 - **Quel est l'apport de l'informatique pour l'humanité ?**
