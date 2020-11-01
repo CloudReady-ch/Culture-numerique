@@ -52,7 +52,8 @@ MurdeMots:
   * Option: 16 questions: https://kahoot.it/challenge/04130808?challenge-id=9eb6e740-207e-4840-89e3-100a68d6d877_1603747037095
   
 ## C'est quoi que tu dois savoir faire dans le digital ?
-BrainStorm1: TK
+BrainStorm1:
+* reprise pour le jour 2, en récapitulatif initial.
 
 ## Pour trouver un job ?
 BrainStorm2:
