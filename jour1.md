@@ -55,15 +55,19 @@ MurdeMots:
 BrainStorm1: TK
 
 ## Pour trouver un job ?
-BrainStorm2: TK
+BrainStorm2:
+* https://docs.google.com/document/d/1IBfC3VKwkM3caKWiv0Ju18ban88LlfjlXLWkAtp2kLg/edit?usp=sharing
 
 ## Les réseaux sociaux !
-https://medium.com/quicklearn/r%C3%A9seaux-sociaux-pour-le-meilleur-et-le-pire-c2f9ba3be43a
 * Qui a quoi ? 
+  * Linkedin: "must have" (C'est Microsoft)
+  * Facebook: boudé par plusieurs, au pofit de Instagram pour les plus jeunes, ou Whatsapp
+  * On découvre que les 3 alimentent le "lac de données" du même, Mr Zuckerberg: http://whatsapp.kotte.net
+  * https://medium.com/quicklearn/r%C3%A9seaux-sociaux-pour-le-meilleur-et-le-pire-c2f9ba3be43a
 
 ## De quoi avons-nous besoin ? (outils numériques)
-BrainStorm3: TK
-* Entrons dans la résistance maîtrisons notre attention I Jean Lou Fourquet: https://youtu.be/2G2jXzsngIg
+BrainStorm3: TK jour 2 - à compléter
+* Entrons dans la résistance maîtrisons notre attention - Jean Lou Fourquet: https://youtu.be/2G2jXzsngIg
 * Entrons dans la capacité de prendre du recul face à l'information reçue: http://zetetique.QuickLearn.ch
 
 # Init 2
