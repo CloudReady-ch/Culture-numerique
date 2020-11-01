@@ -59,13 +59,16 @@ BrainStorm3: TK
 * Entrons dans la capacité de prendre du recul face à l'information reçue: http://zetetique.QuickLearn.ch
 
 # Init 2
-### Browser: Internaute, check personal, anonymous
+## Browser: Internaute, check personal, anonymous
 * gogol search (local mon pays): Mon prénom, nom (si pleins, ajouter ville ou métier ou entreprise)
 * installer Firefox, ouvrir page anonyme, refaire même recherche, même résultat ?
   * https://www.presse-citron.net/tuto-mardi-forcez-google-chrome-a-demarrer-mode-prive/ (Merci @Tyler)
 * swisscows.ch search, même requête
 
-### eMail: webmail vs hosted
+## PDF édition
+* https://github.com/CloudReady-ch/Culture-numerique/blob/master/PDF-solutions.md
+
+## eMail: webmail vs hosted
 * Qui utilises Gmail ?
 * Qui hotmail/outlook ?
 * Qui icloud (me.com) ?
@@ -73,10 +76,11 @@ BrainStorm3: TK
 * Qui utilise un client de messagerie (gmail mobile, outlook, eudora) ?
 * Différences ?
 * Identification et sécurité ! 2FA ?
-#### Se faire un compte Google, mobile et email à disposition requis
+
+## Se faire un compte Google, mobile et email à disposition requis
 https://medium.com/quicklearn/se-cr%C3%A9er-un-compte-google-cfc5c1518e62
 
-### OneDrive et Google drive
+## OneDrive et Google drive
 * https://1drv.ms/u/s!AvfnDwkjZgggakiw2dik-mc1NJI?e=Tfahb8
 * https://drive.google.com/drive/folders/1Lu30RO_a8d4uXkLMgGEQFF5n-9Pq6cUv?usp=sharing
 
