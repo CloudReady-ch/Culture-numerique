@@ -73,8 +73,14 @@ BrainStorm3: TK
   * https://www.presse-citron.net/tuto-mardi-forcez-google-chrome-a-demarrer-mode-prive/ (Merci @Tyler)
 * swisscows.ch search, même requête
 
-## PDF édition
+## Découverte ensemble
+Lors de nos échanges, nous avons aussi découvert:
+### PDF édition
 * https://github.com/CloudReady-ch/Culture-numerique/blob/master/PDF-solutions.md
+
+### Esprit critique
+* https://www.fr.fnac.ch/a10624016/Sophie-Mazet-Manuel-d-autodefense-intellectuelle
+* http://zetetique.quicklearn.ch
 
 ## eMail: webmail vs hosted
 * Qui utilises Gmail ?
