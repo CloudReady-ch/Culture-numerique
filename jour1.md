@@ -84,7 +84,10 @@ Lors de nos échanges, nous avons aussi découvert:
 
 ### Esprit critique
 * https://www.fr.fnac.ch/a10624016/Sophie-Mazet-Manuel-d-autodefense-intellectuelle
-* http://zetetique.quicklearn.ch
+* http://zetetique.quicklearn.ch (pour rappel)
+
+### Editeur de CV ou flyer en ligne
+* https://www.canva.com/fr_fr/creer/cv/
 
 ## eMail: webmail vs hosted
 * Qui utilises Gmail ?
