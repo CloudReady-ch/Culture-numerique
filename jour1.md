@@ -8,11 +8,16 @@ On commence par faire un point de situation et faire connaissance
 * Perspectivisme numérique: [CloudReady](https://medium.com/cloudready-ch/cloudready-ch-cest-quoi-b1f14327143a)
 * Responsabilité numérique: [Libre, ou pas ?](https://medium.com/cloudready-ch/cest-quoi-les-creative-commons-et-open-c-est-pour-ouvrir-quoi-90e050c650b3)
 
+## Le support powerpoint
+* 2020: https://1drv.ms/p/s!As9QX_6wVqXSi4oKxs_T2griXF-Nhg?e=og9Rk9
+  * Le support plus graphique sur le blog: 
+
 ## Craintes, envies et compétences
 ### Speakup
 https://web.speakup.info : Room 46096 - **Quel est l'apport de l'informatique pour l'humanité ?**
 * **A**:Nuisible, **B**:Danger, **C**:Utile, **D**:Nécessaire
-  * 2019: Room 51915 (241job): 
+  * 2020: Room 46096 (Employabilité 4.0, 2020): https://web.speakup.info/ng/room/5f971f4839fff522a5a81964
+  * 2019: Room 51915 (241job): https://web.speakup.info/ng/room/5c90126b24878a293efcd075
 
 ### Matrice [Emerge map](https://twitter.com/EmergeMap)
 Tes capacitées numériques actuelles, 
