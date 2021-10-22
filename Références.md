@@ -63,3 +63,4 @@ En plus des certifications propriétaires (Google, Microsoft, etc...), il existe
 
 ### Plateformes et supports d'apprentissages
 * Apprendre à bien utiliser le clavier: https://www.taptouche.com/fr/
+* Principes de base et composants d'un ordinateur: http://codeur-pro.fr/comment-fonctionne-un-ordinateur/
