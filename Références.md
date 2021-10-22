@@ -62,4 +62,4 @@ En plus des certifications propriétaires (Google, Microsoft, etc...), il existe
 * SwissDigital (?) A revoir avec l'ISEIG...
 
 ### Plateformes et supports d'apprentissages
-* à compléter
+* Apprendre à bien utiliser le clavier: https://www.taptouche.com/fr/
