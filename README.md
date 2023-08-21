@@ -82,6 +82,9 @@ Exemple de micro-blogging et outils sélectionné et réflexions, propositions:
 * IA: [Deep learning, c’est quoi ?](https://medium.com/chatbot-ch/deep-learning-cest-quoi-437acfdf5630)
   * [Désillusions?](https://medium.com/chatbot-ch/deep-learning-d%C3%A9sillusions-ea049764eae5)
   * [Guerre économique](https://medium.com/chatbot-ch/gouvernance-et-ia-706711a5ddac)
+
+ Voir aussi:
+ * https://enseigner.modulo-info.ch/enjx1/index.html
   
 ## Init 5 - Alternatives ?
 * www.FSnet.ch
